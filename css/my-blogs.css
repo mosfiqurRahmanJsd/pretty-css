@@ -1,0 +1,27 @@
+h1 {
+    color: chartreuse;
+}
+.blog {
+    background-color: blanchedalmond;
+    border: 7px solid greenyellow;
+    border-radius: 10px;
+    margin: 50px 70px 200px 100px;
+    padding: 5px 30px 70px 100px;
+}
+.title {
+    text-align: center;
+    font-size: 2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkorchid;
+}
+.blog p {
+    text-align: justify;
+    color: cadetblue;
+    font-weight: 700;
+}
+span {
+    color: yellowgreen;
+    background-color: cadetblue;
+    padding: 10px;
+    border-radius: 10px;
+}
